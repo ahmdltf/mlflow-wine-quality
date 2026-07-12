@@ -19,28 +19,28 @@ A reproducible MLOps project that automates machine learning training, experimen
 
 # 📖 Table of Contents
 
-- Project Overview
-- Background
-- Business Understanding
-- Problem Statement
-- Project Objectives
-- Machine Learning Lifecycle
-- MLOps Architecture
-- Dataset Overview
-- Repository Structure
-- Technology Stack
-- Workflow Pipeline
-- Model Development
-- Experiment Tracking
-- Continuous Integration
-- Project Components
-- Installation
-- Running the Project
-- Generated Artifacts
-- Reproducibility
-- Future Work
-- Author
-- License
+- [Project Overview](#-project-overview)
+- [Background](#-background)
+- [Business Understanding](#-business-understanding)
+- [Problem Statement](#-problem-statement)
+- [Project Objectives](#-project-objectives)
+- [Machine Learning Lifecycle](#-machine-learning-lifecycle)
+- [MLOps Architecture](#-mlops-architecture)
+- [Dataset Overview](#-dataset-overview)
+- [Repository Structure](#-repository-structure)
+- [Technology Stack](#-technology-stack)
+- [Workflow Pipeline](#-workflow-pipeline)
+- [Model Development](#-model-development)
+- [Experiment Tracking](#-experiment-tracking)
+- [Continuous Integration](#-continuous-integration)
+- [Project Components](#-project-components)
+- [Installation](#-installation)
+- [Running the Project](#-running-the-project)
+- [Generated Artifacts](#-generated-artifacts)
+- [Reproducibility](#-reproducibility)
+- [Future Work](#-future-work)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
